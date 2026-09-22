@@ -1,0 +1,9 @@
+# Files that should NOT be uploaded as static assets to Cloudflare Workers.
+# (worker.js is the Worker entry, not a static file; config/meta files are deploy-only.)
+worker.js
+wrangler.jsonc
+.assetsignore
+.gitignore
+.git/
+.wrangler/
+.dev.vars

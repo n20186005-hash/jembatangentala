@@ -1,0 +1,19 @@
+{
+  "name": "Jembatan Gentala Arasy Jambi — Panduan Wisata",
+  "short_name": "Gentala Arasy",
+  "description": "Independent, non-profit visitor guide to Jembatan Gentala Arasy, the Batanghari riverfront pedestrian bridge in Jambi, Indonesia.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#102e3b",
+  "theme_color": "#102e3b",
+  "lang": "id",
+  "categories": ["travel", "education"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
