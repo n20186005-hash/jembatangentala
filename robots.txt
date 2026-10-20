@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://jembatangentala.com/sitemap.xml
